@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+@font-face {
+    font-family: "Inter";
+    src: url("inter/Inter-VariableFont_slnt\,wght.ttf") format("ttf supports variations");
+    src: url("inter/Inter-VariableFont_slnt\,wght.ttf") format("ttf-variations");
+}
